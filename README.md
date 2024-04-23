@@ -1,1 +1,1 @@
-# lsb-vision-studio-azure
+# lab-vision-studio-azure
